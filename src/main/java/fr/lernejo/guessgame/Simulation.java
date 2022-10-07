@@ -1,7 +1,7 @@
 package fr.lernejo.guessgame;
 import fr.lernejo.logger.Logger;
 import fr.lernejo.logger.LoggerFactory;
-import java.lang.Math;
+//import java.lang.Math;
 
 
 public class Simulation {
@@ -62,6 +62,6 @@ public class Simulation {
         while(!nextRound()){
             nextRound();
         }
-        this.logger.log("Partie terminée!");
+        this.logger.log("bravo");
     }
 }
