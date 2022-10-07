@@ -24,9 +24,9 @@ public class Simulation {
      */
     private boolean nextRound() {
         //TODO implement me
-        System.out.println("Devinez l'âge du capitaine: \n");
+        //System.out.println("Devinez l'âge du capitaine: \n");
         long number = player.askNextGuess();
-        this.logger.log("Le player choisit le nombre: "+number+"\n");
+        //this.logger.log("Le player choisit le nombre: "+number+"\n");
         //System.out.println("Le player choisit le nombre:"+number+"\n");
 
         if (number == this.numberToGuess) {
