@@ -31,7 +31,7 @@ public class Simulation {
 
         if (number == this.numberToGuess) {
             this.player.respond(true);
-            this.logger.log("Good job!"+"\n");
+            this.logger.log("Le player a deviné le bon numéro"+"\n");
             //System.out.println("Good Job!"+"\n");
             return true;
 
@@ -62,6 +62,6 @@ public class Simulation {
         while(!nextRound()){
             nextRound();
         }
-        this.logger.log("Vous avez deviné l'âge du capitaine ^^ !");
+        this.logger.log("Partie terminée!");
     }
 }
