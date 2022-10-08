@@ -1,6 +1,8 @@
 package fr.lernejo.guessgame;
 import fr.lernejo.logger.Logger;
 import fr.lernejo.logger.LoggerFactory;
+
+import java.text.SimpleDateFormat;
 //import java.lang.Math;
 
 
@@ -30,7 +32,7 @@ public class Simulation {
         //System.out.println("Le player choisit le nombre:"+number+"\n");
 
         if (number == this.numberToGuess) {
-            this.player.respond(true);
+           // this.player.respond(true);
             this.logger.log("Le player a deviné le bon numéro"+"\n");
             //System.out.println("Good Job!"+"\n");
             return true;
@@ -44,7 +46,7 @@ public class Simulation {
             return false;
 
         }else {
-            this.player.respond(false);
+            this.player.respond(true);
             this.logger.log("Le choix d'âge du player est plus grand que celle du capitaine "+"\n");
             //System.out.println("Le choix du numéro de player est plus grand "+"\n");
             //System.out.println("Trop Grand");
@@ -53,15 +55,32 @@ public class Simulation {
         }
 
     }
-    public void loopUntilPlayerSucceed() {
+    public void loopUntilPlayerSucceed(long maxboucle) {
         //TODO implement me
-       // do{
-         //   nextRound();
 
-        //}
-        while(!nextRound()){
-            nextRound();
-        }
-        this.logger.log("bravo");
+        long timestamp = System.currentTimeMillis();
+
+        SimpleDateFormat simpleDateFormat = new SimpleDateFormat("mm:ss.SSS");
+
+       int compteur = 0;
+
+       while(!nextRound()){
+           //nextRound();
+           if(compteur>maxboucle){
+               this.logger.log("Trop d'itérations...");
+               break;
+           }
+           compteur++;
+       }
+       // InputmissmatchExeception
+            //scanner.nexline();
+            // ds try et catch
+
+        long elapsed = System.currentTimeMillis() - timestamp;
+        this.logger.log("Le temps émis est de"+ simpleDateFormat.format(elapsed));
+        this.logger.log("Fin du jeu");
+        //this.logger.log(minutes+":"+seconds);
+
+
     }
 }

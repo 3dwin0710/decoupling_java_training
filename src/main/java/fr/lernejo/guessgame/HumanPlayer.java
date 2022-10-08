@@ -16,8 +16,9 @@ public class HumanPlayer implements Player{
     }
 
     @Override
-    public void respond(boolean lowerOrGreater) {
+    public boolean respond(boolean lowerOrGreater) {
 
         this.logger.log(String.valueOf(lowerOrGreater));
+        return lowerOrGreater;
     }
 }
