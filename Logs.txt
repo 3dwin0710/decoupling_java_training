@@ -20,3 +20,38 @@
 
 2022-10-09 22:48:37.111 Simulation Le temps émis est de 00:00.058
 2022-10-09 22:48:37.112 Simulation done
+2022-10-09 22:53:25.700 HumanPlayer false
+2022-10-09 22:53:25.711 Simulation Le choix d'âge du player est plus petit que celle du capitaine
+
+2022-10-09 22:53:28.711 HumanPlayer true
+2022-10-09 22:53:28.712 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-09 22:53:30.116 HumanPlayer false
+2022-10-09 22:53:30.117 Simulation Le choix d'âge du player est plus petit que celle du capitaine
+
+2022-10-09 22:53:32.262 HumanPlayer true
+2022-10-09 22:53:32.263 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-09 22:53:33.300 HumanPlayer false
+2022-10-09 22:53:33.301 Simulation Le choix d'âge du player est plus petit que celle du capitaine
+
+2022-10-09 22:53:35.829 HumanPlayer false
+2022-10-09 22:53:35.831 Simulation Le choix d'âge du player est plus petit que celle du capitaine
+
+2022-10-09 22:53:37.366 HumanPlayer true
+2022-10-09 22:53:37.367 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-09 22:53:39.417 HumanPlayer true
+2022-10-09 22:53:39.418 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-09 23:07:20.218 HumanPlayer false
+2022-10-09 23:07:20.234 Simulation Le choix d'âge du player est plus petit que celle du capitaine
+
+2022-10-09 23:07:23.193 HumanPlayer true
+2022-10-09 23:07:23.193 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-09 23:07:26.587 Simulation Le player a deviné le bon numéro
+
+2022-10-09 23:07:26.589 Simulation Le temps émis est de 00:09.247
+2022-10-09 23:07:26.591 Simulation done
+

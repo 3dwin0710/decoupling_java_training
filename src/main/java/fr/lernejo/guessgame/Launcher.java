@@ -38,7 +38,7 @@ public class Launcher {
             if(args[0].equals("-interactive")) {
             long randomNumber = random.nextInt(100);// génère un nombre entre Long.MIN_VALUE et Long.MAX_VALUE
             //long randomNumber = random.nextInt(100); // génère un nombre entre 0 (inclus) et 100 (exclus)
-            //System.out.println(randomNumber);
+            System.out.println(randomNumber);
 
             simulation.initialize(randomNumber);
             simulation.loopUntilPlayerSucceed(Long.MAX_VALUE);

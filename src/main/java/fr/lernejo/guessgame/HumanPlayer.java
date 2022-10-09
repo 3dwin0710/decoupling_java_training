@@ -21,6 +21,5 @@ public class HumanPlayer implements Player{
 
         this.logger.log(String.valueOf(lowerOrGreater));
         return lowerOrGreater;
-
     }
 }

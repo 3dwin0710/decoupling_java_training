@@ -6,5 +6,6 @@ public class LoggerFactory {
         Logger logger = new FileLogger("Logs.txt");
         return new ContextualLogger(name,logger);
         //return new FileLogger("Log.txt");
+
     }
 }

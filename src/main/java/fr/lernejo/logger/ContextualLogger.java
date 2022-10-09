@@ -15,7 +15,6 @@ public class ContextualLogger implements Logger{
         this.delegateLogger = logger;
         this.callerClass = class_name;
 
-
     }
     DateTimeFormatter formatter = DateTimeFormatter.ofPattern("yyyy-MM-dd HH:mm:ss.SSS");
 

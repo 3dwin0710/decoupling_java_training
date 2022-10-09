@@ -17,6 +17,7 @@ public class ComputerPlayer implements Player{
 
         this.milieu = (this.Bornesup+this.Borninf)/2;
         System.out.println("Le robot a choisi:"+this.milieu);
+        this.logger.log("Le robot a choisi:"+this.milieu);
         return this.milieu;
     }
 
