@@ -1,0 +1,22 @@
+2022-10-09 22:48:37.090 ComputerPlayer Lower
+2022-10-09 22:48:37.101 Simulation Le choix d'âge du player est plus petit que celle du capitaine
+
+2022-10-09 22:48:37.102 ComputerPlayer Lower
+2022-10-09 22:48:37.103 Simulation Le choix d'âge du player est plus petit que celle du capitaine
+
+2022-10-09 22:48:37.103 ComputerPlayer Greater
+2022-10-09 22:48:37.104 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-09 22:48:37.104 ComputerPlayer Greater
+2022-10-09 22:48:37.105 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-09 22:48:37.105 ComputerPlayer Greater
+2022-10-09 22:48:37.106 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-09 22:48:37.109 ComputerPlayer Lower
+2022-10-09 22:48:37.109 Simulation Le choix d'âge du player est plus petit que celle du capitaine
+
+2022-10-09 22:48:37.110 Simulation Le player a deviné le bon numéro
+
+2022-10-09 22:48:37.111 Simulation Le temps émis est de 00:00.058
+2022-10-09 22:48:37.112 Simulation done

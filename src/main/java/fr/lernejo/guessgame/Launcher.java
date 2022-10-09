@@ -43,6 +43,7 @@ public class Launcher {
             simulation.initialize(randomNumber);
             simulation.loopUntilPlayerSucceed(Long.MAX_VALUE);
 
+
         }
 
         else if(args[0].equals("-auto")) {

@@ -10,6 +10,7 @@ public class ComputerPlayer implements Player{
     private long Bornesup = 100;
 
     private long Borninf;
+
     private long milieu;
     @Override
     public long askNextGuess() {
