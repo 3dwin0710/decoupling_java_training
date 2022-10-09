@@ -7,7 +7,7 @@ import fr.lernejo.logger.LoggerFactory;
 public class ComputerPlayer implements Player{
 
     Logger logger = LoggerFactory.getLogger("ComputerPlayer");
-    private long Bornesup = Long.MAX_VALUE;
+    private long Bornesup = 100;
 
     private long Borninf;
     private long milieu;
@@ -27,6 +27,7 @@ public class ComputerPlayer implements Player{
             this.Bornesup = this.milieu;
             return true;
             // Sup
+
 
         }else {
             this.logger.log("Lower");

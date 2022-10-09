@@ -73,6 +73,7 @@ public class Simulation {
        }
        // InputmissmatchExeception
             //scanner.nexline();
+
             // ds try et catch
 
         long elapsed = System.currentTimeMillis() - timestamp;

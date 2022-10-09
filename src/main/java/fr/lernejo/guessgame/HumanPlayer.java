@@ -13,6 +13,7 @@ public class HumanPlayer implements Player{
         Scanner scanner = new Scanner(System.in);
         long numberplayer = scanner.nextLong();
         return numberplayer;
+
     }
 
     @Override
