@@ -6,7 +6,7 @@ import java.text.SimpleDateFormat;
 
 
 public class Simulation {
-    private final Logger logger = LoggerFactory.getLogger("simulation");
+    private final Logger logger = LoggerFactory.getLogger("Simulation");
     private final Player player;  //TODO add variable type
     private long numberToGuess; //TODO add variable type
 

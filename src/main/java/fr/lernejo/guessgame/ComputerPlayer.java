@@ -6,7 +6,7 @@ import fr.lernejo.logger.LoggerFactory;
 
 public class ComputerPlayer implements Player{
 
-    Logger logger = LoggerFactory.getLogger("player");
+    Logger logger = LoggerFactory.getLogger("ComputerPlayer");
     private long Bornesup = Long.MAX_VALUE;
 
     private long Borninf;
