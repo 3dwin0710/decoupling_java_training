@@ -3,12 +3,12 @@ package fr.lernejo.guessgame;
 import fr.lernejo.logger.Logger;
 import fr.lernejo.logger.LoggerFactory;
 
-import java.security.SecureRandom;
 
 public class ComputerPlayer implements Player{
 
     Logger logger = LoggerFactory.getLogger("player");
     private long Bornesup = Long.MAX_VALUE;
+
     private long Borninf;
     private long milieu;
     @Override
@@ -24,13 +24,13 @@ public class ComputerPlayer implements Player{
         if(lowerOrGreater){
 
             this.logger.log("Greater");
-            this.Borninf = this.milieu;
+            this.Bornesup = this.milieu;
             return true;
             // Sup
 
         }else {
             this.logger.log("Lower");
-            this.Bornesup = this.milieu;
+            this.Borninf= this.milieu;
             return false;// Inf
         }
     }

@@ -3,7 +3,6 @@ import fr.lernejo.logger.Logger;
 import fr.lernejo.logger.LoggerFactory;
 
 import java.text.SimpleDateFormat;
-//import java.lang.Math;
 
 
 public class Simulation {
@@ -77,7 +76,7 @@ public class Simulation {
             // ds try et catch
 
         long elapsed = System.currentTimeMillis() - timestamp;
-        this.logger.log("Le temps émis est de"+ simpleDateFormat.format(elapsed));
+        this.logger.log("Le temps émis est de "+ simpleDateFormat.format(elapsed));
         this.logger.log("Fin du jeu");
         //this.logger.log(minutes+":"+seconds);
 
