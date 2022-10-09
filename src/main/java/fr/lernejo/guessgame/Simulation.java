@@ -77,7 +77,7 @@ public class Simulation {
 
         long elapsed = System.currentTimeMillis() - timestamp;
         this.logger.log("Le temps émis est de "+ simpleDateFormat.format(elapsed));
-        this.logger.log("Fin du jeu");
+        this.logger.log("done");
         //this.logger.log(minutes+":"+seconds);
 
 
