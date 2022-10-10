@@ -15,7 +15,6 @@ public class FileLogger implements Logger{
     public FileLogger(String pathAsString) {
         path = Paths.get(pathAsString).toAbsolutePath();
     }
-
     public void log(String message) {
         try {
             Files.write(path, (message + "\n").getBytes(), APPEND, CREATE);

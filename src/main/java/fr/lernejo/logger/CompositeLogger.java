@@ -15,6 +15,5 @@ public class CompositeLogger implements Logger {
     public void log(String message) {
         this.delegatelogger1.log(message);
         this.delegatelogger2.log(message);
-
     }
 }

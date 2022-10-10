@@ -42,7 +42,6 @@ public class Simulation {
 
            // System.out.println("Trop Petit");
             return false;
-
         }else {
             this.player.respond(true);
             this.logger.log("Le choix d'âge du player est plus grand que celle du capitaine "+"\n");
