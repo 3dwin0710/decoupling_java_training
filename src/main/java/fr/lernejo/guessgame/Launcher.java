@@ -32,7 +32,6 @@ public class Launcher {
             logger.log("Soit -interactive en argument ou -auto avec un autre argument\n");
             //System.out.println("Soit -interactive en argument ou -auto avec un autre argument\n");
             return;
-
         }
             if(args[0].equals("-interactive")) {
             long randomNumber = random.nextInt(100);// génère un nombre entre Long.MIN_VALUE et Long.MAX_VALUE

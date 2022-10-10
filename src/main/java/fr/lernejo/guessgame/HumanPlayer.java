@@ -13,6 +13,7 @@ public class HumanPlayer implements Player{
     public long askNextGuess() {
         Scanner scanner = new Scanner(System.in);
         long numberplayer = scanner.nextLong();
+        this.logger.log("Le player a choisi:"+numberplayer);
         return numberplayer;
     }
 
