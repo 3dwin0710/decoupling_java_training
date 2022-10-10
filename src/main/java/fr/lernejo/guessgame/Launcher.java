@@ -20,7 +20,6 @@ public class Launcher {
     public static void  main(String[] args) {
 
         Logger logger = LoggerFactory.getLogger("Launcher");
-
         HumanPlayer player = new HumanPlayer();
         ComputerPlayer computer = new ComputerPlayer();
         Simulation simulationcomputer = new Simulation(computer);

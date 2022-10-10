@@ -29,7 +29,6 @@ public class Simulation {
         long number = player.askNextGuess();
         //this.logger.log("Le player choisit le nombre: "+number+"\n");
         //System.out.println("Le player choisit le nombre:"+number+"\n");
-
         if (number == this.numberToGuess) {
            // this.player.respond(true);
             this.logger.log("Le player a deviné le bon numéro"+"\n");
