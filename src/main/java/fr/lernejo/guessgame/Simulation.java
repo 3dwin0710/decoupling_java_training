@@ -35,7 +35,6 @@ public class Simulation {
            //System.out.println("Le player a deviné le bon numéro\n");
             return true;
 
-
         }else if(number < this.numberToGuess){
             this.player.respond(false);
             this.logger.log("Le choix d'âge du player est plus petit que celle du capitaine"+"\n");

@@ -11,7 +11,6 @@ public class ContextualLogger implements Logger{
 
 
     public ContextualLogger(String class_name, Logger logger){
-
         this.delegateLogger = logger;
         this.callerClass = class_name;
 

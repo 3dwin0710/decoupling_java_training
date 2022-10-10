@@ -10,7 +10,6 @@ public class CompositeLogger implements Logger {
     public CompositeLogger(Logger logger1, Logger logger2){
         this.delegatelogger1 = logger1;
         this.delegatelogger2 = logger2;
-
     }
     @Override
     public void log(String message) {

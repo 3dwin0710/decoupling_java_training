@@ -9,5 +9,6 @@ public class LoggerFactory {
         Logger loggerfile = new ContextualLogger(name,logger2);
         return new CompositeLogger(loggerconsole,loggerfile);
         //return new FileLogger("Log.txt");
+
     }
 }
