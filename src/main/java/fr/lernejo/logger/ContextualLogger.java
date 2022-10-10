@@ -21,5 +21,6 @@ public class ContextualLogger implements Logger{
     @Override
     public void log(String message) {
             delegateLogger.log(LocalDateTime.now().format(formatter) + " " + callerClass + " " + message);
+
     }
 }

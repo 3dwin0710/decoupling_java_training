@@ -17,7 +17,6 @@ public class FileLogger implements Logger{
     }
 
     public void log(String message) {
-
         try {
             Files.write(path, (message + "\n").getBytes(), APPEND, CREATE);
         } catch (IOException e) {
