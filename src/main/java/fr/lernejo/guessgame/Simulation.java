@@ -32,13 +32,13 @@ public class Simulation {
         if (number == this.numberToGuess) {
            // this.player.respond(true);
             this.logger.log("Le player a deviné le bon numéro"+"\n");
-            System.out.println("Le player a deviné le bon numéro\n");
+           //System.out.println("Le player a deviné le bon numéro\n");
             return true;
 
         }else if(number < this.numberToGuess){
             this.player.respond(false);
             this.logger.log("Le choix d'âge du player est plus petit que celle du capitaine"+"\n");
-            System.out.println("Le choix d'âge du player est plus petit que celle du capitaine "+"\n");
+            //System.out.println("Le choix d'âge du player est plus petit que celle du capitaine "+"\n");
 
            // System.out.println("Trop Petit");
             return false;
@@ -46,7 +46,7 @@ public class Simulation {
         }else {
             this.player.respond(true);
             this.logger.log("Le choix d'âge du player est plus grand que celle du capitaine "+"\n");
-            System.out.println("Le choix d'âge du player est plus grand que celle du capitaine "+"\n");
+            //System.out.println("Le choix d'âge du player est plus grand que celle du capitaine "+"\n");
             //System.out.println("Trop Grand");
             return false;
 
@@ -79,7 +79,7 @@ public class Simulation {
         long elapsed = System.currentTimeMillis() - timestamp;
         this.logger.log("Le temps émis est de "+ simpleDateFormat.format(elapsed));
         this.logger.log("done");
-        System.out.println("done");
+        //System.out.println("done");
         //this.logger.log(minutes+":"+seconds);
 
 
