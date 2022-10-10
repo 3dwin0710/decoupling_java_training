@@ -71,17 +71,12 @@ public class Simulation {
            }
            compteur++;
        }
-       // InputmissmatchExeception
-            //scanner.nexline();
-
-            // ds try et catch
 
         long elapsed = System.currentTimeMillis() - timestamp;
         this.logger.log("Le temps émis est de "+ simpleDateFormat.format(elapsed));
         this.logger.log("done");
         //System.out.println("done");
         //this.logger.log(minutes+":"+seconds);
-
 
     }
 }

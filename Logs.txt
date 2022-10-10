@@ -9251,3 +9251,1210 @@
 
 2022-10-10 10:05:06.173 Simulation Le temps émis est de 00:00.090
 2022-10-10 10:05:06.174 Simulation done
+2022-10-10 10:08:49.395 ComputerPlayer Compteur:1
+2022-10-10 10:08:49.400 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:08:49.400 ComputerPlayer Compteur:2
+2022-10-10 10:08:49.401 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:08:49.402 ComputerPlayer Compteur:3
+2022-10-10 10:08:49.403 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:08:49.404 ComputerPlayer Compteur:4
+2022-10-10 10:08:49.405 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:08:49.405 ComputerPlayer Compteur:5
+2022-10-10 10:08:49.406 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:08:49.407 ComputerPlayer Compteur:6
+2022-10-10 10:08:49.407 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:08:49.408 ComputerPlayer Compteur:7
+2022-10-10 10:08:49.409 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:08:49.410 ComputerPlayer Compteur:8
+2022-10-10 10:08:49.411 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:08:49.411 ComputerPlayer Compteur:9
+2022-10-10 10:08:49.412 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:08:49.413 ComputerPlayer Compteur:10
+2022-10-10 10:08:49.413 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:08:49.414 ComputerPlayer Compteur:11
+2022-10-10 10:08:49.414 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:08:49.415 ComputerPlayer Compteur:12
+2022-10-10 10:08:49.416 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:08:49.417 ComputerPlayer Compteur:13
+2022-10-10 10:08:49.418 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:08:49.419 ComputerPlayer Compteur:14
+2022-10-10 10:08:49.420 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:08:49.420 ComputerPlayer Compteur:15
+2022-10-10 10:08:49.421 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:08:49.422 ComputerPlayer Compteur:16
+2022-10-10 10:08:49.422 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:08:49.423 ComputerPlayer Compteur:17
+2022-10-10 10:08:49.424 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:08:49.424 ComputerPlayer Compteur:18
+2022-10-10 10:08:49.425 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:08:49.426 ComputerPlayer Compteur:19
+2022-10-10 10:08:49.427 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:08:49.428 ComputerPlayer Compteur:20
+2022-10-10 10:08:49.428 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:08:49.429 ComputerPlayer Compteur:21
+2022-10-10 10:08:49.429 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:08:49.430 ComputerPlayer Compteur:22
+2022-10-10 10:08:49.430 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:08:49.431 ComputerPlayer Compteur:23
+2022-10-10 10:08:49.432 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:08:49.432 ComputerPlayer Compteur:24
+2022-10-10 10:08:49.433 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:08:49.433 ComputerPlayer Compteur:25
+2022-10-10 10:08:49.434 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:08:49.435 ComputerPlayer Compteur:26
+2022-10-10 10:08:49.435 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:08:49.436 ComputerPlayer Compteur:27
+2022-10-10 10:08:49.436 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:08:49.437 ComputerPlayer Compteur:28
+2022-10-10 10:08:49.438 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:08:49.441 ComputerPlayer Compteur:29
+2022-10-10 10:08:49.442 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:08:49.442 ComputerPlayer Compteur:30
+2022-10-10 10:08:49.443 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:08:49.444 ComputerPlayer Compteur:31
+2022-10-10 10:08:49.444 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:08:49.445 ComputerPlayer Compteur:32
+2022-10-10 10:08:49.445 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:08:49.446 ComputerPlayer Compteur:33
+2022-10-10 10:08:49.447 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:08:49.447 ComputerPlayer Compteur:34
+2022-10-10 10:08:49.447 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:08:49.449 ComputerPlayer Compteur:35
+2022-10-10 10:08:49.449 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:08:49.449 ComputerPlayer Compteur:36
+2022-10-10 10:08:49.450 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:08:49.451 ComputerPlayer Compteur:37
+2022-10-10 10:08:49.451 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:08:49.452 ComputerPlayer Compteur:38
+2022-10-10 10:08:49.453 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:08:49.453 ComputerPlayer Compteur:39
+2022-10-10 10:08:49.454 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:08:49.455 ComputerPlayer Compteur:40
+2022-10-10 10:08:49.456 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:08:49.456 ComputerPlayer Compteur:41
+2022-10-10 10:08:49.457 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:08:49.457 ComputerPlayer Compteur:42
+2022-10-10 10:08:49.458 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:08:49.459 ComputerPlayer Compteur:43
+2022-10-10 10:08:49.459 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:08:49.460 ComputerPlayer Compteur:44
+2022-10-10 10:08:49.460 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:08:49.461 ComputerPlayer Compteur:45
+2022-10-10 10:08:49.462 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:08:49.462 ComputerPlayer Compteur:46
+2022-10-10 10:08:49.463 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:08:49.463 ComputerPlayer Compteur:47
+2022-10-10 10:08:49.464 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:08:49.465 ComputerPlayer Compteur:48
+2022-10-10 10:08:49.466 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:08:49.466 ComputerPlayer Compteur:49
+2022-10-10 10:08:49.467 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:08:49.467 ComputerPlayer Compteur:50
+2022-10-10 10:08:49.468 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:08:49.469 ComputerPlayer Compteur:51
+2022-10-10 10:08:49.469 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:08:49.470 ComputerPlayer Compteur:52
+2022-10-10 10:08:49.470 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:08:49.471 ComputerPlayer Compteur:53
+2022-10-10 10:08:49.472 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:08:49.472 ComputerPlayer Compteur:54
+2022-10-10 10:08:49.473 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:08:49.474 ComputerPlayer Compteur:55
+2022-10-10 10:08:49.474 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:08:49.475 ComputerPlayer Compteur:56
+2022-10-10 10:08:49.476 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:08:49.476 ComputerPlayer Compteur:57
+2022-10-10 10:08:49.477 Simulation Le choix d'âge du player est plus petit que celle du capitaine
+
+2022-10-10 10:08:49.478 ComputerPlayer Compteur:58
+2022-10-10 10:08:49.478 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:08:49.479 ComputerPlayer Compteur:59
+2022-10-10 10:08:49.479 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:08:49.480 ComputerPlayer Compteur:60
+2022-10-10 10:08:49.481 Simulation Le choix d'âge du player est plus petit que celle du capitaine
+
+2022-10-10 10:08:49.481 ComputerPlayer Compteur:61
+2022-10-10 10:08:49.482 Simulation Le choix d'âge du player est plus petit que celle du capitaine
+
+2022-10-10 10:08:49.482 ComputerPlayer Compteur:62
+2022-10-10 10:08:49.483 Simulation Le player a deviné le bon numéro
+
+2022-10-10 10:08:49.484 Simulation Le temps émis est de 00:00.151
+2022-10-10 10:08:49.485 Simulation done
+2022-10-10 10:10:56.858 ComputerPlayer Compteur:1
+2022-10-10 10:10:56.863 Simulation Le choix d'âge du player est plus petit que celle du capitaine
+
+2022-10-10 10:10:56.863 ComputerPlayer Compteur:2
+2022-10-10 10:10:56.864 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:10:56.865 ComputerPlayer Compteur:3
+2022-10-10 10:10:56.866 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:10:56.867 ComputerPlayer Compteur:4
+2022-10-10 10:10:56.867 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:10:56.868 ComputerPlayer Compteur:5
+2022-10-10 10:10:56.869 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:10:56.869 ComputerPlayer Compteur:6
+2022-10-10 10:10:56.870 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:10:56.871 ComputerPlayer Compteur:7
+2022-10-10 10:10:56.871 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:10:56.872 ComputerPlayer Compteur:8
+2022-10-10 10:10:56.874 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:10:56.875 ComputerPlayer Compteur:9
+2022-10-10 10:10:56.875 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:10:56.876 ComputerPlayer Compteur:10
+2022-10-10 10:10:56.877 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:10:56.877 ComputerPlayer Compteur:11
+2022-10-10 10:10:56.878 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:10:56.879 ComputerPlayer Compteur:12
+2022-10-10 10:10:56.879 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:10:56.880 ComputerPlayer Compteur:13
+2022-10-10 10:10:56.881 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:10:56.882 ComputerPlayer Compteur:14
+2022-10-10 10:10:56.882 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:10:56.883 ComputerPlayer Compteur:15
+2022-10-10 10:10:56.883 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:10:56.884 ComputerPlayer Compteur:16
+2022-10-10 10:10:56.884 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:10:56.885 ComputerPlayer Compteur:17
+2022-10-10 10:10:56.886 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:10:56.887 ComputerPlayer Compteur:18
+2022-10-10 10:10:56.887 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:10:56.888 ComputerPlayer Compteur:19
+2022-10-10 10:10:56.888 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:10:56.889 ComputerPlayer Compteur:20
+2022-10-10 10:10:56.890 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:10:56.890 ComputerPlayer Compteur:21
+2022-10-10 10:10:56.891 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:10:56.892 ComputerPlayer Compteur:22
+2022-10-10 10:10:56.892 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:10:56.894 ComputerPlayer Compteur:23
+2022-10-10 10:10:56.894 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:10:56.895 ComputerPlayer Compteur:24
+2022-10-10 10:10:56.896 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:10:56.896 ComputerPlayer Compteur:25
+2022-10-10 10:10:56.897 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:10:56.897 ComputerPlayer Compteur:26
+2022-10-10 10:10:56.898 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:10:56.899 ComputerPlayer Compteur:27
+2022-10-10 10:10:56.899 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:10:56.900 ComputerPlayer Compteur:28
+2022-10-10 10:10:56.901 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:10:56.902 ComputerPlayer Compteur:29
+2022-10-10 10:10:56.903 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:10:56.904 ComputerPlayer Compteur:30
+2022-10-10 10:10:56.904 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:10:56.905 ComputerPlayer Compteur:31
+2022-10-10 10:10:56.906 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:10:56.906 ComputerPlayer Compteur:32
+2022-10-10 10:10:56.907 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:10:56.908 ComputerPlayer Compteur:33
+2022-10-10 10:10:56.909 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:10:56.910 ComputerPlayer Compteur:34
+2022-10-10 10:10:56.910 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:10:56.911 ComputerPlayer Compteur:35
+2022-10-10 10:10:56.911 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:10:56.912 ComputerPlayer Compteur:36
+2022-10-10 10:10:56.913 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:10:56.913 ComputerPlayer Compteur:37
+2022-10-10 10:10:56.914 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:10:56.915 ComputerPlayer Compteur:38
+2022-10-10 10:10:56.915 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:10:56.916 ComputerPlayer Compteur:39
+2022-10-10 10:10:56.917 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:10:56.918 ComputerPlayer Compteur:40
+2022-10-10 10:10:56.918 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:10:56.919 ComputerPlayer Compteur:41
+2022-10-10 10:10:56.920 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:10:56.920 ComputerPlayer Compteur:42
+2022-10-10 10:10:56.921 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:10:56.922 ComputerPlayer Compteur:43
+2022-10-10 10:10:56.922 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:10:56.923 ComputerPlayer Compteur:44
+2022-10-10 10:10:56.924 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:10:56.925 ComputerPlayer Compteur:45
+2022-10-10 10:10:56.926 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:10:56.927 ComputerPlayer Compteur:46
+2022-10-10 10:10:56.928 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:10:56.928 ComputerPlayer Compteur:47
+2022-10-10 10:10:56.929 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:10:56.931 ComputerPlayer Compteur:48
+2022-10-10 10:10:56.931 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:10:56.932 ComputerPlayer Compteur:49
+2022-10-10 10:10:56.932 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:10:56.933 ComputerPlayer Compteur:50
+2022-10-10 10:10:56.934 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:10:56.934 ComputerPlayer Compteur:51
+2022-10-10 10:10:56.935 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:10:56.936 ComputerPlayer Compteur:52
+2022-10-10 10:10:56.937 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:10:56.938 ComputerPlayer Compteur:53
+2022-10-10 10:10:56.938 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:10:56.939 ComputerPlayer Compteur:54
+2022-10-10 10:10:56.940 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:10:56.941 ComputerPlayer Compteur:55
+2022-10-10 10:10:56.941 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:10:56.942 ComputerPlayer Compteur:56
+2022-10-10 10:10:56.943 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:10:56.943 ComputerPlayer Compteur:57
+2022-10-10 10:10:56.945 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:10:56.945 ComputerPlayer Compteur:58
+2022-10-10 10:10:56.946 Simulation Le choix d'âge du player est plus petit que celle du capitaine
+
+2022-10-10 10:10:56.946 ComputerPlayer Compteur:59
+2022-10-10 10:10:56.947 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:10:56.947 ComputerPlayer Compteur:60
+2022-10-10 10:10:56.948 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:10:56.949 ComputerPlayer Compteur:61
+2022-10-10 10:10:56.950 Simulation Le choix d'âge du player est plus petit que celle du capitaine
+
+2022-10-10 10:10:56.950 ComputerPlayer Compteur:62
+2022-10-10 10:10:56.951 Simulation Le choix d'âge du player est plus petit que celle du capitaine
+
+2022-10-10 10:10:56.952 ComputerPlayer Compteur:63
+2022-10-10 10:10:56.953 Simulation Le player a deviné le bon numéro
+
+2022-10-10 10:10:56.955 Simulation Le temps émis est de 00:00.156
+2022-10-10 10:10:56.956 Simulation done
+2022-10-10 10:11:12.513 ComputerPlayer Le robot a choisi:0
+2022-10-10 10:11:12.522 ComputerPlayer Compteur:1
+2022-10-10 10:11:12.523 Simulation Le choix d'âge du player est plus petit que celle du capitaine
+
+2022-10-10 10:11:12.524 ComputerPlayer Le robot a choisi:4611686018427387903
+2022-10-10 10:11:12.525 ComputerPlayer Compteur:2
+2022-10-10 10:11:12.525 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:11:12.526 ComputerPlayer Le robot a choisi:2305843009213693951
+2022-10-10 10:11:12.527 ComputerPlayer Compteur:3
+2022-10-10 10:11:12.528 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:11:12.528 ComputerPlayer Le robot a choisi:1152921504606846975
+2022-10-10 10:11:12.529 ComputerPlayer Compteur:4
+2022-10-10 10:11:12.529 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:11:12.530 ComputerPlayer Le robot a choisi:576460752303423487
+2022-10-10 10:11:12.531 ComputerPlayer Compteur:5
+2022-10-10 10:11:12.531 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:11:12.532 ComputerPlayer Le robot a choisi:288230376151711743
+2022-10-10 10:11:12.533 ComputerPlayer Compteur:6
+2022-10-10 10:11:12.533 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:11:12.534 ComputerPlayer Le robot a choisi:144115188075855871
+2022-10-10 10:11:12.534 ComputerPlayer Compteur:7
+2022-10-10 10:11:12.535 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:11:12.536 ComputerPlayer Le robot a choisi:72057594037927935
+2022-10-10 10:11:12.536 ComputerPlayer Compteur:8
+2022-10-10 10:11:12.537 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:11:12.538 ComputerPlayer Le robot a choisi:36028797018963967
+2022-10-10 10:11:12.538 ComputerPlayer Compteur:9
+2022-10-10 10:11:12.539 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:11:12.540 ComputerPlayer Le robot a choisi:18014398509481983
+2022-10-10 10:11:12.540 ComputerPlayer Compteur:10
+2022-10-10 10:11:12.541 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:11:12.542 ComputerPlayer Le robot a choisi:9007199254740991
+2022-10-10 10:11:12.542 ComputerPlayer Compteur:11
+2022-10-10 10:11:12.543 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:11:12.543 ComputerPlayer Le robot a choisi:4503599627370495
+2022-10-10 10:11:12.544 ComputerPlayer Compteur:12
+2022-10-10 10:11:12.545 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:11:12.546 ComputerPlayer Le robot a choisi:2251799813685247
+2022-10-10 10:11:12.547 ComputerPlayer Compteur:13
+2022-10-10 10:11:12.548 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:11:12.548 ComputerPlayer Le robot a choisi:1125899906842623
+2022-10-10 10:11:12.549 ComputerPlayer Compteur:14
+2022-10-10 10:11:12.550 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:11:12.550 ComputerPlayer Le robot a choisi:562949953421311
+2022-10-10 10:11:12.551 ComputerPlayer Compteur:15
+2022-10-10 10:11:12.551 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:11:12.552 ComputerPlayer Le robot a choisi:281474976710655
+2022-10-10 10:11:12.552 ComputerPlayer Compteur:16
+2022-10-10 10:11:12.553 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:11:12.553 ComputerPlayer Le robot a choisi:140737488355327
+2022-10-10 10:11:12.554 ComputerPlayer Compteur:17
+2022-10-10 10:11:12.555 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:11:12.556 ComputerPlayer Le robot a choisi:70368744177663
+2022-10-10 10:11:12.557 ComputerPlayer Compteur:18
+2022-10-10 10:11:12.557 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:11:12.558 ComputerPlayer Le robot a choisi:35184372088831
+2022-10-10 10:11:12.558 ComputerPlayer Compteur:19
+2022-10-10 10:11:12.559 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:11:12.559 ComputerPlayer Le robot a choisi:17592186044415
+2022-10-10 10:11:12.560 ComputerPlayer Compteur:20
+2022-10-10 10:11:12.560 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:11:12.561 ComputerPlayer Le robot a choisi:8796093022207
+2022-10-10 10:11:12.562 ComputerPlayer Compteur:21
+2022-10-10 10:11:12.562 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:11:12.562 ComputerPlayer Le robot a choisi:4398046511103
+2022-10-10 10:11:12.564 ComputerPlayer Compteur:22
+2022-10-10 10:11:12.565 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:11:12.565 ComputerPlayer Le robot a choisi:2199023255551
+2022-10-10 10:11:12.566 ComputerPlayer Compteur:23
+2022-10-10 10:11:12.566 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:11:12.567 ComputerPlayer Le robot a choisi:1099511627775
+2022-10-10 10:11:12.567 ComputerPlayer Compteur:24
+2022-10-10 10:11:12.568 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:11:12.568 ComputerPlayer Le robot a choisi:549755813887
+2022-10-10 10:11:12.569 ComputerPlayer Compteur:25
+2022-10-10 10:11:12.569 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:11:12.570 ComputerPlayer Le robot a choisi:274877906943
+2022-10-10 10:11:12.570 ComputerPlayer Compteur:26
+2022-10-10 10:11:12.571 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:11:12.571 ComputerPlayer Le robot a choisi:137438953471
+2022-10-10 10:11:12.572 ComputerPlayer Compteur:27
+2022-10-10 10:11:12.572 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:11:12.573 ComputerPlayer Le robot a choisi:68719476735
+2022-10-10 10:11:12.573 ComputerPlayer Compteur:28
+2022-10-10 10:11:12.574 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:11:12.574 ComputerPlayer Le robot a choisi:34359738367
+2022-10-10 10:11:12.576 ComputerPlayer Compteur:29
+2022-10-10 10:11:12.576 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:11:12.577 ComputerPlayer Le robot a choisi:17179869183
+2022-10-10 10:11:12.578 ComputerPlayer Compteur:30
+2022-10-10 10:11:12.578 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:11:12.579 ComputerPlayer Le robot a choisi:8589934591
+2022-10-10 10:11:12.579 ComputerPlayer Compteur:31
+2022-10-10 10:11:12.580 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:11:12.580 ComputerPlayer Le robot a choisi:4294967295
+2022-10-10 10:11:12.581 ComputerPlayer Compteur:32
+2022-10-10 10:11:12.581 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:11:12.582 ComputerPlayer Le robot a choisi:2147483647
+2022-10-10 10:11:12.582 ComputerPlayer Compteur:33
+2022-10-10 10:11:12.583 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:11:12.584 ComputerPlayer Le robot a choisi:1073741823
+2022-10-10 10:11:12.584 ComputerPlayer Compteur:34
+2022-10-10 10:11:12.585 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:11:12.586 ComputerPlayer Le robot a choisi:536870911
+2022-10-10 10:11:12.587 ComputerPlayer Compteur:35
+2022-10-10 10:11:12.588 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:11:12.588 ComputerPlayer Le robot a choisi:268435455
+2022-10-10 10:11:12.589 ComputerPlayer Compteur:36
+2022-10-10 10:11:12.590 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:11:12.590 ComputerPlayer Le robot a choisi:134217727
+2022-10-10 10:11:12.591 ComputerPlayer Compteur:37
+2022-10-10 10:11:12.592 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:11:12.592 ComputerPlayer Le robot a choisi:67108863
+2022-10-10 10:11:12.593 ComputerPlayer Compteur:38
+2022-10-10 10:11:12.593 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:11:12.594 ComputerPlayer Le robot a choisi:33554431
+2022-10-10 10:11:12.595 ComputerPlayer Compteur:39
+2022-10-10 10:11:12.595 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:11:12.596 ComputerPlayer Le robot a choisi:16777215
+2022-10-10 10:11:12.597 ComputerPlayer Compteur:40
+2022-10-10 10:11:12.597 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:11:12.598 ComputerPlayer Le robot a choisi:8388607
+2022-10-10 10:11:12.599 ComputerPlayer Compteur:41
+2022-10-10 10:11:12.600 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:11:12.600 ComputerPlayer Le robot a choisi:4194303
+2022-10-10 10:11:12.601 ComputerPlayer Compteur:42
+2022-10-10 10:11:12.602 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:11:12.602 ComputerPlayer Le robot a choisi:2097151
+2022-10-10 10:11:12.603 ComputerPlayer Compteur:43
+2022-10-10 10:11:12.604 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:11:12.605 ComputerPlayer Le robot a choisi:1048575
+2022-10-10 10:11:12.606 ComputerPlayer Compteur:44
+2022-10-10 10:11:12.607 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:11:12.608 ComputerPlayer Le robot a choisi:524287
+2022-10-10 10:11:12.609 ComputerPlayer Compteur:45
+2022-10-10 10:11:12.610 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:11:12.611 ComputerPlayer Le robot a choisi:262143
+2022-10-10 10:11:12.611 ComputerPlayer Compteur:46
+2022-10-10 10:11:12.612 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:11:12.613 ComputerPlayer Le robot a choisi:131071
+2022-10-10 10:11:12.614 ComputerPlayer Compteur:47
+2022-10-10 10:11:12.614 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:11:12.615 ComputerPlayer Le robot a choisi:65535
+2022-10-10 10:11:12.615 ComputerPlayer Compteur:48
+2022-10-10 10:11:12.616 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:11:12.616 ComputerPlayer Le robot a choisi:32767
+2022-10-10 10:11:12.617 ComputerPlayer Compteur:49
+2022-10-10 10:11:12.617 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:11:12.618 ComputerPlayer Le robot a choisi:16383
+2022-10-10 10:11:12.619 ComputerPlayer Compteur:50
+2022-10-10 10:11:12.619 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:11:12.620 ComputerPlayer Le robot a choisi:8191
+2022-10-10 10:11:12.620 ComputerPlayer Compteur:51
+2022-10-10 10:11:12.621 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:11:12.622 ComputerPlayer Le robot a choisi:4095
+2022-10-10 10:11:12.623 ComputerPlayer Compteur:52
+2022-10-10 10:11:12.623 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:11:12.624 ComputerPlayer Le robot a choisi:2047
+2022-10-10 10:11:12.625 ComputerPlayer Compteur:53
+2022-10-10 10:11:12.626 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:11:12.626 ComputerPlayer Le robot a choisi:1023
+2022-10-10 10:11:12.627 ComputerPlayer Compteur:54
+2022-10-10 10:11:12.628 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:11:12.628 ComputerPlayer Le robot a choisi:511
+2022-10-10 10:11:12.629 ComputerPlayer Compteur:55
+2022-10-10 10:11:12.630 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:11:12.630 ComputerPlayer Le robot a choisi:255
+2022-10-10 10:11:12.631 ComputerPlayer Compteur:56
+2022-10-10 10:11:12.632 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:11:12.632 ComputerPlayer Le robot a choisi:127
+2022-10-10 10:11:12.633 ComputerPlayer Compteur:57
+2022-10-10 10:11:12.633 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:11:12.634 ComputerPlayer Le robot a choisi:63
+2022-10-10 10:11:12.634 ComputerPlayer Compteur:58
+2022-10-10 10:11:12.635 Simulation Le choix d'âge du player est plus petit que celle du capitaine
+
+2022-10-10 10:11:12.636 ComputerPlayer Le robot a choisi:95
+2022-10-10 10:11:12.637 ComputerPlayer Compteur:59
+2022-10-10 10:11:12.638 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:11:12.638 ComputerPlayer Le robot a choisi:79
+2022-10-10 10:11:12.639 ComputerPlayer Compteur:60
+2022-10-10 10:11:12.640 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:11:12.640 ComputerPlayer Le robot a choisi:71
+2022-10-10 10:11:12.641 ComputerPlayer Compteur:61
+2022-10-10 10:11:12.641 Simulation Le choix d'âge du player est plus petit que celle du capitaine
+
+2022-10-10 10:11:12.642 ComputerPlayer Le robot a choisi:75
+2022-10-10 10:11:12.642 ComputerPlayer Compteur:62
+2022-10-10 10:11:12.643 Simulation Le choix d'âge du player est plus petit que celle du capitaine
+
+2022-10-10 10:11:12.644 ComputerPlayer Le robot a choisi:77
+2022-10-10 10:11:12.644 ComputerPlayer Compteur:63
+2022-10-10 10:11:12.644 Simulation Le player a deviné le bon numéro
+
+2022-10-10 10:11:12.646 Simulation Le temps émis est de 00:00.195
+2022-10-10 10:11:12.647 Simulation done
+2022-10-10 10:13:30.761 ComputerPlayer Le robot a choisi:0
+2022-10-10 10:13:30.767 ComputerPlayer Compteur:1
+2022-10-10 10:13:30.768 Simulation Le choix d'âge du player est plus petit que celle du capitaine
+
+2022-10-10 10:13:30.769 ComputerPlayer Le robot a choisi:4611686018427387903
+2022-10-10 10:13:30.769 ComputerPlayer Compteur:2
+2022-10-10 10:13:30.770 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:13:30.771 ComputerPlayer Le robot a choisi:2305843009213693951
+2022-10-10 10:13:30.772 ComputerPlayer Compteur:3
+2022-10-10 10:13:30.772 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:13:30.773 ComputerPlayer Le robot a choisi:1152921504606846975
+2022-10-10 10:13:30.773 ComputerPlayer Compteur:4
+2022-10-10 10:13:30.773 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:13:30.774 ComputerPlayer Le robot a choisi:576460752303423487
+2022-10-10 10:13:30.774 ComputerPlayer Compteur:5
+2022-10-10 10:13:30.775 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:13:30.776 ComputerPlayer Le robot a choisi:288230376151711743
+2022-10-10 10:13:30.776 ComputerPlayer Compteur:6
+2022-10-10 10:13:30.778 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:13:30.778 ComputerPlayer Le robot a choisi:144115188075855871
+2022-10-10 10:13:30.779 ComputerPlayer Compteur:7
+2022-10-10 10:13:30.780 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:13:30.780 ComputerPlayer Le robot a choisi:72057594037927935
+2022-10-10 10:13:30.781 ComputerPlayer Compteur:8
+2022-10-10 10:13:30.782 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:13:30.782 ComputerPlayer Le robot a choisi:36028797018963967
+2022-10-10 10:13:30.783 ComputerPlayer Compteur:9
+2022-10-10 10:13:30.783 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:13:30.784 ComputerPlayer Le robot a choisi:18014398509481983
+2022-10-10 10:13:30.785 ComputerPlayer Compteur:10
+2022-10-10 10:13:30.785 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:13:30.786 ComputerPlayer Le robot a choisi:9007199254740991
+2022-10-10 10:13:30.787 ComputerPlayer Compteur:11
+2022-10-10 10:13:30.788 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:13:30.789 ComputerPlayer Le robot a choisi:4503599627370495
+2022-10-10 10:13:30.790 ComputerPlayer Compteur:12
+2022-10-10 10:13:30.790 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:13:30.791 ComputerPlayer Le robot a choisi:2251799813685247
+2022-10-10 10:13:30.792 ComputerPlayer Compteur:13
+2022-10-10 10:13:30.793 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:13:30.793 ComputerPlayer Le robot a choisi:1125899906842623
+2022-10-10 10:13:30.794 ComputerPlayer Compteur:14
+2022-10-10 10:13:30.795 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:13:30.795 ComputerPlayer Le robot a choisi:562949953421311
+2022-10-10 10:13:30.796 ComputerPlayer Compteur:15
+2022-10-10 10:13:30.797 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:13:30.797 ComputerPlayer Le robot a choisi:281474976710655
+2022-10-10 10:13:30.800 ComputerPlayer Compteur:16
+2022-10-10 10:13:30.800 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:13:30.801 ComputerPlayer Le robot a choisi:140737488355327
+2022-10-10 10:13:30.802 ComputerPlayer Compteur:17
+2022-10-10 10:13:30.802 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:13:30.804 ComputerPlayer Le robot a choisi:70368744177663
+2022-10-10 10:13:30.805 ComputerPlayer Compteur:18
+2022-10-10 10:13:30.806 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:13:30.806 ComputerPlayer Le robot a choisi:35184372088831
+2022-10-10 10:13:30.807 ComputerPlayer Compteur:19
+2022-10-10 10:13:30.807 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:13:30.808 ComputerPlayer Le robot a choisi:17592186044415
+2022-10-10 10:13:30.809 ComputerPlayer Compteur:20
+2022-10-10 10:13:30.809 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:13:30.810 ComputerPlayer Le robot a choisi:8796093022207
+2022-10-10 10:13:30.810 ComputerPlayer Compteur:21
+2022-10-10 10:13:30.811 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:13:30.812 ComputerPlayer Le robot a choisi:4398046511103
+2022-10-10 10:13:30.813 ComputerPlayer Compteur:22
+2022-10-10 10:13:30.813 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:13:30.814 ComputerPlayer Le robot a choisi:2199023255551
+2022-10-10 10:13:30.814 ComputerPlayer Compteur:23
+2022-10-10 10:13:30.815 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:13:30.815 ComputerPlayer Le robot a choisi:1099511627775
+2022-10-10 10:13:30.816 ComputerPlayer Compteur:24
+2022-10-10 10:13:30.817 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:13:30.818 ComputerPlayer Le robot a choisi:549755813887
+2022-10-10 10:13:30.819 ComputerPlayer Compteur:25
+2022-10-10 10:13:30.820 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:13:30.822 ComputerPlayer Le robot a choisi:274877906943
+2022-10-10 10:13:30.823 ComputerPlayer Compteur:26
+2022-10-10 10:13:30.824 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:13:30.824 ComputerPlayer Le robot a choisi:137438953471
+2022-10-10 10:13:30.825 ComputerPlayer Compteur:27
+2022-10-10 10:13:30.825 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:13:30.826 ComputerPlayer Le robot a choisi:68719476735
+2022-10-10 10:13:30.826 ComputerPlayer Compteur:28
+2022-10-10 10:13:30.827 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:13:30.828 ComputerPlayer Le robot a choisi:34359738367
+2022-10-10 10:13:30.829 ComputerPlayer Compteur:29
+2022-10-10 10:13:30.830 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:13:30.830 ComputerPlayer Le robot a choisi:17179869183
+2022-10-10 10:13:30.831 ComputerPlayer Compteur:30
+2022-10-10 10:13:30.831 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:13:30.832 ComputerPlayer Le robot a choisi:8589934591
+2022-10-10 10:13:30.834 ComputerPlayer Compteur:31
+2022-10-10 10:13:30.834 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:13:30.836 ComputerPlayer Le robot a choisi:4294967295
+2022-10-10 10:13:30.838 ComputerPlayer Compteur:32
+2022-10-10 10:13:30.839 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:13:30.840 ComputerPlayer Le robot a choisi:2147483647
+2022-10-10 10:13:30.841 ComputerPlayer Compteur:33
+2022-10-10 10:13:30.841 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:13:30.842 ComputerPlayer Le robot a choisi:1073741823
+2022-10-10 10:13:30.843 ComputerPlayer Compteur:34
+2022-10-10 10:13:30.844 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:13:30.845 ComputerPlayer Le robot a choisi:536870911
+2022-10-10 10:13:30.846 ComputerPlayer Compteur:35
+2022-10-10 10:13:30.846 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:13:30.846 ComputerPlayer Le robot a choisi:268435455
+2022-10-10 10:13:30.848 ComputerPlayer Compteur:36
+2022-10-10 10:13:30.848 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:13:30.849 ComputerPlayer Le robot a choisi:134217727
+2022-10-10 10:13:30.850 ComputerPlayer Compteur:37
+2022-10-10 10:13:30.851 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:13:30.851 ComputerPlayer Le robot a choisi:67108863
+2022-10-10 10:13:30.852 ComputerPlayer Compteur:38
+2022-10-10 10:13:30.853 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:13:30.855 ComputerPlayer Le robot a choisi:33554431
+2022-10-10 10:13:30.856 ComputerPlayer Compteur:39
+2022-10-10 10:13:30.857 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:13:30.858 ComputerPlayer Le robot a choisi:16777215
+2022-10-10 10:13:30.859 ComputerPlayer Compteur:40
+2022-10-10 10:13:30.859 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:13:30.860 ComputerPlayer Le robot a choisi:8388607
+2022-10-10 10:13:30.861 ComputerPlayer Compteur:41
+2022-10-10 10:13:30.861 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:13:30.862 ComputerPlayer Le robot a choisi:4194303
+2022-10-10 10:13:30.863 ComputerPlayer Compteur:42
+2022-10-10 10:13:30.863 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:13:30.864 ComputerPlayer Le robot a choisi:2097151
+2022-10-10 10:13:30.864 ComputerPlayer Compteur:43
+2022-10-10 10:13:30.865 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:13:30.865 ComputerPlayer Le robot a choisi:1048575
+2022-10-10 10:13:30.866 ComputerPlayer Compteur:44
+2022-10-10 10:13:30.866 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:13:30.867 ComputerPlayer Le robot a choisi:524287
+2022-10-10 10:13:30.867 ComputerPlayer Compteur:45
+2022-10-10 10:13:30.869 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:13:30.869 ComputerPlayer Le robot a choisi:262143
+2022-10-10 10:13:30.870 ComputerPlayer Compteur:46
+2022-10-10 10:13:30.872 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:13:30.874 ComputerPlayer Le robot a choisi:131071
+2022-10-10 10:13:30.874 ComputerPlayer Compteur:47
+2022-10-10 10:13:30.875 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:13:30.876 ComputerPlayer Le robot a choisi:65535
+2022-10-10 10:13:30.876 ComputerPlayer Compteur:48
+2022-10-10 10:13:30.877 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:13:30.877 ComputerPlayer Le robot a choisi:32767
+2022-10-10 10:13:30.881 ComputerPlayer Compteur:49
+2022-10-10 10:13:30.883 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:13:30.884 ComputerPlayer Le robot a choisi:16383
+2022-10-10 10:13:30.884 ComputerPlayer Compteur:50
+2022-10-10 10:13:30.885 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:13:30.886 ComputerPlayer Le robot a choisi:8191
+2022-10-10 10:13:30.886 ComputerPlayer Compteur:51
+2022-10-10 10:13:30.887 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:13:30.888 ComputerPlayer Le robot a choisi:4095
+2022-10-10 10:13:30.889 ComputerPlayer Compteur:52
+2022-10-10 10:13:30.889 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:13:30.890 ComputerPlayer Le robot a choisi:2047
+2022-10-10 10:13:30.890 ComputerPlayer Compteur:53
+2022-10-10 10:13:30.891 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:13:30.892 ComputerPlayer Le robot a choisi:1023
+2022-10-10 10:13:30.892 ComputerPlayer Compteur:54
+2022-10-10 10:13:30.893 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:13:30.893 ComputerPlayer Le robot a choisi:511
+2022-10-10 10:13:30.894 ComputerPlayer Compteur:55
+2022-10-10 10:13:30.895 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:13:30.896 ComputerPlayer Le robot a choisi:255
+2022-10-10 10:13:30.896 ComputerPlayer Compteur:56
+2022-10-10 10:13:30.898 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:13:30.898 ComputerPlayer Le robot a choisi:127
+2022-10-10 10:13:30.898 ComputerPlayer Compteur:57
+2022-10-10 10:13:30.899 Simulation Le choix d'âge du player est plus petit que celle du capitaine
+
+2022-10-10 10:13:30.900 ComputerPlayer Le robot a choisi:191
+2022-10-10 10:13:30.900 ComputerPlayer Compteur:58
+2022-10-10 10:13:30.901 Simulation Le choix d'âge du player est plus petit que celle du capitaine
+
+2022-10-10 10:13:30.901 ComputerPlayer Le robot a choisi:223
+2022-10-10 10:13:30.903 ComputerPlayer Compteur:59
+2022-10-10 10:13:30.904 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:13:30.905 ComputerPlayer Le robot a choisi:207
+2022-10-10 10:13:30.906 ComputerPlayer Compteur:60
+2022-10-10 10:13:30.906 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:13:30.908 ComputerPlayer Le robot a choisi:199
+2022-10-10 10:13:30.909 ComputerPlayer Compteur:61
+2022-10-10 10:13:30.909 Simulation Le choix d'âge du player est plus petit que celle du capitaine
+
+2022-10-10 10:13:30.910 ComputerPlayer Le robot a choisi:203
+2022-10-10 10:13:30.910 ComputerPlayer Compteur:62
+2022-10-10 10:13:30.911 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:13:30.912 ComputerPlayer Le robot a choisi:201
+2022-10-10 10:13:30.912 ComputerPlayer Compteur:63
+2022-10-10 10:13:30.913 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:13:30.914 ComputerPlayer Le robot a choisi:200
+2022-10-10 10:13:30.914 ComputerPlayer Compteur:64
+2022-10-10 10:13:30.915 Simulation Le player a deviné le bon numéro
+
+2022-10-10 10:13:30.916 Simulation Le temps émis est de 00:00.205
+2022-10-10 10:13:30.917 Simulation done
+2022-10-10 10:14:20.360 ComputerPlayer Le robot a choisi:0
+2022-10-10 10:14:20.367 ComputerPlayer Compteur:1
+2022-10-10 10:14:20.368 ComputerPlayer Nombre devine plus petit
+2022-10-10 10:14:20.370 Simulation Le choix d'âge du player est plus petit que celle du capitaine
+
+2022-10-10 10:14:20.371 ComputerPlayer Le robot a choisi:4611686018427387903
+2022-10-10 10:14:20.371 ComputerPlayer Compteur:2
+2022-10-10 10:14:20.372 ComputerPlayer Nombre devine plus grand
+2022-10-10 10:14:20.373 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:14:20.373 ComputerPlayer Le robot a choisi:2305843009213693951
+2022-10-10 10:14:20.374 ComputerPlayer Compteur:3
+2022-10-10 10:14:20.375 ComputerPlayer Nombre devine plus grand
+2022-10-10 10:14:20.375 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:14:20.376 ComputerPlayer Le robot a choisi:1152921504606846975
+2022-10-10 10:14:20.377 ComputerPlayer Compteur:4
+2022-10-10 10:14:20.378 ComputerPlayer Nombre devine plus grand
+2022-10-10 10:14:20.378 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:14:20.379 ComputerPlayer Le robot a choisi:576460752303423487
+2022-10-10 10:14:20.379 ComputerPlayer Compteur:5
+2022-10-10 10:14:20.380 ComputerPlayer Nombre devine plus grand
+2022-10-10 10:14:20.381 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:14:20.381 ComputerPlayer Le robot a choisi:288230376151711743
+2022-10-10 10:14:20.382 ComputerPlayer Compteur:6
+2022-10-10 10:14:20.383 ComputerPlayer Nombre devine plus grand
+2022-10-10 10:14:20.383 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:14:20.384 ComputerPlayer Le robot a choisi:144115188075855871
+2022-10-10 10:14:20.384 ComputerPlayer Compteur:7
+2022-10-10 10:14:20.386 ComputerPlayer Nombre devine plus grand
+2022-10-10 10:14:20.387 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:14:20.387 ComputerPlayer Le robot a choisi:72057594037927935
+2022-10-10 10:14:20.388 ComputerPlayer Compteur:8
+2022-10-10 10:14:20.389 ComputerPlayer Nombre devine plus grand
+2022-10-10 10:14:20.390 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:14:20.390 ComputerPlayer Le robot a choisi:36028797018963967
+2022-10-10 10:14:20.391 ComputerPlayer Compteur:9
+2022-10-10 10:14:20.392 ComputerPlayer Nombre devine plus grand
+2022-10-10 10:14:20.392 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:14:20.393 ComputerPlayer Le robot a choisi:18014398509481983
+2022-10-10 10:14:20.393 ComputerPlayer Compteur:10
+2022-10-10 10:14:20.394 ComputerPlayer Nombre devine plus grand
+2022-10-10 10:14:20.395 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:14:20.395 ComputerPlayer Le robot a choisi:9007199254740991
+2022-10-10 10:14:20.396 ComputerPlayer Compteur:11
+2022-10-10 10:14:20.396 ComputerPlayer Nombre devine plus grand
+2022-10-10 10:14:20.397 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:14:20.398 ComputerPlayer Le robot a choisi:4503599627370495
+2022-10-10 10:14:20.398 ComputerPlayer Compteur:12
+2022-10-10 10:14:20.399 ComputerPlayer Nombre devine plus grand
+2022-10-10 10:14:20.399 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:14:20.400 ComputerPlayer Le robot a choisi:2251799813685247
+2022-10-10 10:14:20.401 ComputerPlayer Compteur:13
+2022-10-10 10:14:20.402 ComputerPlayer Nombre devine plus grand
+2022-10-10 10:14:20.403 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:14:20.403 ComputerPlayer Le robot a choisi:1125899906842623
+2022-10-10 10:14:20.404 ComputerPlayer Compteur:14
+2022-10-10 10:14:20.405 ComputerPlayer Nombre devine plus grand
+2022-10-10 10:14:20.405 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:14:20.406 ComputerPlayer Le robot a choisi:562949953421311
+2022-10-10 10:14:20.407 ComputerPlayer Compteur:15
+2022-10-10 10:14:20.407 ComputerPlayer Nombre devine plus grand
+2022-10-10 10:14:20.408 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:14:20.409 ComputerPlayer Le robot a choisi:281474976710655
+2022-10-10 10:14:20.410 ComputerPlayer Compteur:16
+2022-10-10 10:14:20.411 ComputerPlayer Nombre devine plus grand
+2022-10-10 10:14:20.411 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:14:20.412 ComputerPlayer Le robot a choisi:140737488355327
+2022-10-10 10:14:20.413 ComputerPlayer Compteur:17
+2022-10-10 10:14:20.413 ComputerPlayer Nombre devine plus grand
+2022-10-10 10:14:20.414 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:14:20.415 ComputerPlayer Le robot a choisi:70368744177663
+2022-10-10 10:14:20.415 ComputerPlayer Compteur:18
+2022-10-10 10:14:20.416 ComputerPlayer Nombre devine plus grand
+2022-10-10 10:14:20.416 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:14:20.417 ComputerPlayer Le robot a choisi:35184372088831
+2022-10-10 10:14:20.425 ComputerPlayer Compteur:19
+2022-10-10 10:14:20.426 ComputerPlayer Nombre devine plus grand
+2022-10-10 10:14:20.426 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:14:20.427 ComputerPlayer Le robot a choisi:17592186044415
+2022-10-10 10:14:20.428 ComputerPlayer Compteur:20
+2022-10-10 10:14:20.428 ComputerPlayer Nombre devine plus grand
+2022-10-10 10:14:20.429 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:14:20.430 ComputerPlayer Le robot a choisi:8796093022207
+2022-10-10 10:14:20.431 ComputerPlayer Compteur:21
+2022-10-10 10:14:20.431 ComputerPlayer Nombre devine plus grand
+2022-10-10 10:14:20.432 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:14:20.432 ComputerPlayer Le robot a choisi:4398046511103
+2022-10-10 10:14:20.433 ComputerPlayer Compteur:22
+2022-10-10 10:14:20.434 ComputerPlayer Nombre devine plus grand
+2022-10-10 10:14:20.435 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:14:20.436 ComputerPlayer Le robot a choisi:2199023255551
+2022-10-10 10:14:20.436 ComputerPlayer Compteur:23
+2022-10-10 10:14:20.437 ComputerPlayer Nombre devine plus grand
+2022-10-10 10:14:20.437 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:14:20.438 ComputerPlayer Le robot a choisi:1099511627775
+2022-10-10 10:14:20.439 ComputerPlayer Compteur:24
+2022-10-10 10:14:20.439 ComputerPlayer Nombre devine plus grand
+2022-10-10 10:14:20.440 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:14:20.440 ComputerPlayer Le robot a choisi:549755813887
+2022-10-10 10:14:20.441 ComputerPlayer Compteur:25
+2022-10-10 10:14:20.442 ComputerPlayer Nombre devine plus grand
+2022-10-10 10:14:20.442 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:14:20.443 ComputerPlayer Le robot a choisi:274877906943
+2022-10-10 10:14:20.444 ComputerPlayer Compteur:26
+2022-10-10 10:14:20.444 ComputerPlayer Nombre devine plus grand
+2022-10-10 10:14:20.445 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:14:20.445 ComputerPlayer Le robot a choisi:137438953471
+2022-10-10 10:14:20.446 ComputerPlayer Compteur:27
+2022-10-10 10:14:20.447 ComputerPlayer Nombre devine plus grand
+2022-10-10 10:14:20.447 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:14:20.448 ComputerPlayer Le robot a choisi:68719476735
+2022-10-10 10:14:20.448 ComputerPlayer Compteur:28
+2022-10-10 10:14:20.449 ComputerPlayer Nombre devine plus grand
+2022-10-10 10:14:20.449 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:14:20.450 ComputerPlayer Le robot a choisi:34359738367
+2022-10-10 10:14:20.451 ComputerPlayer Compteur:29
+2022-10-10 10:14:20.451 ComputerPlayer Nombre devine plus grand
+2022-10-10 10:14:20.452 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:14:20.452 ComputerPlayer Le robot a choisi:17179869183
+2022-10-10 10:14:20.453 ComputerPlayer Compteur:30
+2022-10-10 10:14:20.454 ComputerPlayer Nombre devine plus grand
+2022-10-10 10:14:20.454 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:14:20.455 ComputerPlayer Le robot a choisi:8589934591
+2022-10-10 10:14:20.456 ComputerPlayer Compteur:31
+2022-10-10 10:14:20.457 ComputerPlayer Nombre devine plus grand
+2022-10-10 10:14:20.457 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:14:20.458 ComputerPlayer Le robot a choisi:4294967295
+2022-10-10 10:14:20.459 ComputerPlayer Compteur:32
+2022-10-10 10:14:20.459 ComputerPlayer Nombre devine plus grand
+2022-10-10 10:14:20.461 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:14:20.461 ComputerPlayer Le robot a choisi:2147483647
+2022-10-10 10:14:20.462 ComputerPlayer Compteur:33
+2022-10-10 10:14:20.462 ComputerPlayer Nombre devine plus grand
+2022-10-10 10:14:20.463 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:14:20.463 ComputerPlayer Le robot a choisi:1073741823
+2022-10-10 10:14:20.464 ComputerPlayer Compteur:34
+2022-10-10 10:14:20.464 ComputerPlayer Nombre devine plus grand
+2022-10-10 10:14:20.465 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:14:20.465 ComputerPlayer Le robot a choisi:536870911
+2022-10-10 10:14:20.466 ComputerPlayer Compteur:35
+2022-10-10 10:14:20.467 ComputerPlayer Nombre devine plus grand
+2022-10-10 10:14:20.467 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:14:20.468 ComputerPlayer Le robot a choisi:268435455
+2022-10-10 10:14:20.468 ComputerPlayer Compteur:36
+2022-10-10 10:14:20.469 ComputerPlayer Nombre devine plus grand
+2022-10-10 10:14:20.470 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:14:20.470 ComputerPlayer Le robot a choisi:134217727
+2022-10-10 10:14:20.472 ComputerPlayer Compteur:37
+2022-10-10 10:14:20.473 ComputerPlayer Nombre devine plus grand
+2022-10-10 10:14:20.474 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:14:20.475 ComputerPlayer Le robot a choisi:67108863
+2022-10-10 10:14:20.476 ComputerPlayer Compteur:38
+2022-10-10 10:14:20.477 ComputerPlayer Nombre devine plus grand
+2022-10-10 10:14:20.477 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:14:20.478 ComputerPlayer Le robot a choisi:33554431
+2022-10-10 10:14:20.479 ComputerPlayer Compteur:39
+2022-10-10 10:14:20.479 ComputerPlayer Nombre devine plus grand
+2022-10-10 10:14:20.480 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:14:20.480 ComputerPlayer Le robot a choisi:16777215
+2022-10-10 10:14:20.481 ComputerPlayer Compteur:40
+2022-10-10 10:14:20.481 ComputerPlayer Nombre devine plus grand
+2022-10-10 10:14:20.482 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:14:20.483 ComputerPlayer Le robot a choisi:8388607
+2022-10-10 10:14:20.483 ComputerPlayer Compteur:41
+2022-10-10 10:14:20.484 ComputerPlayer Nombre devine plus grand
+2022-10-10 10:14:20.484 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:14:20.485 ComputerPlayer Le robot a choisi:4194303
+2022-10-10 10:14:20.486 ComputerPlayer Compteur:42
+2022-10-10 10:14:20.487 ComputerPlayer Nombre devine plus grand
+2022-10-10 10:14:20.488 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:14:20.490 ComputerPlayer Le robot a choisi:2097151
+2022-10-10 10:14:20.491 ComputerPlayer Compteur:43
+2022-10-10 10:14:20.492 ComputerPlayer Nombre devine plus grand
+2022-10-10 10:14:20.492 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:14:20.493 ComputerPlayer Le robot a choisi:1048575
+2022-10-10 10:14:20.493 ComputerPlayer Compteur:44
+2022-10-10 10:14:20.493 ComputerPlayer Nombre devine plus grand
+2022-10-10 10:14:20.494 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:14:20.495 ComputerPlayer Le robot a choisi:524287
+2022-10-10 10:14:20.495 ComputerPlayer Compteur:45
+2022-10-10 10:14:20.496 ComputerPlayer Nombre devine plus grand
+2022-10-10 10:14:20.497 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:14:20.498 ComputerPlayer Le robot a choisi:262143
+2022-10-10 10:14:20.500 ComputerPlayer Compteur:46
+2022-10-10 10:14:20.500 ComputerPlayer Nombre devine plus grand
+2022-10-10 10:14:20.502 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:14:20.503 ComputerPlayer Le robot a choisi:131071
+2022-10-10 10:14:20.504 ComputerPlayer Compteur:47
+2022-10-10 10:14:20.504 ComputerPlayer Nombre devine plus grand
+2022-10-10 10:14:20.505 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:14:20.505 ComputerPlayer Le robot a choisi:65535
+2022-10-10 10:14:20.506 ComputerPlayer Compteur:48
+2022-10-10 10:14:20.506 ComputerPlayer Nombre devine plus grand
+2022-10-10 10:14:20.507 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:14:20.508 ComputerPlayer Le robot a choisi:32767
+2022-10-10 10:14:20.508 ComputerPlayer Compteur:49
+2022-10-10 10:14:20.509 ComputerPlayer Nombre devine plus grand
+2022-10-10 10:14:20.509 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:14:20.510 ComputerPlayer Le robot a choisi:16383
+2022-10-10 10:14:20.511 ComputerPlayer Compteur:50
+2022-10-10 10:14:20.512 ComputerPlayer Nombre devine plus grand
+2022-10-10 10:14:20.513 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:14:20.513 ComputerPlayer Le robot a choisi:8191
+2022-10-10 10:14:20.514 ComputerPlayer Compteur:51
+2022-10-10 10:14:20.514 ComputerPlayer Nombre devine plus grand
+2022-10-10 10:14:20.515 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:14:20.516 ComputerPlayer Le robot a choisi:4095
+2022-10-10 10:14:20.516 ComputerPlayer Compteur:52
+2022-10-10 10:14:20.517 ComputerPlayer Nombre devine plus grand
+2022-10-10 10:14:20.518 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:14:20.518 ComputerPlayer Le robot a choisi:2047
+2022-10-10 10:14:20.519 ComputerPlayer Compteur:53
+2022-10-10 10:14:20.519 ComputerPlayer Nombre devine plus grand
+2022-10-10 10:14:20.520 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:14:20.521 ComputerPlayer Le robot a choisi:1023
+2022-10-10 10:14:20.521 ComputerPlayer Compteur:54
+2022-10-10 10:14:20.522 ComputerPlayer Nombre devine plus grand
+2022-10-10 10:14:20.523 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:14:20.523 ComputerPlayer Le robot a choisi:511
+2022-10-10 10:14:20.524 ComputerPlayer Compteur:55
+2022-10-10 10:14:20.524 ComputerPlayer Nombre devine plus grand
+2022-10-10 10:14:20.525 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:14:20.526 ComputerPlayer Le robot a choisi:255
+2022-10-10 10:14:20.526 ComputerPlayer Compteur:56
+2022-10-10 10:14:20.527 ComputerPlayer Nombre devine plus grand
+2022-10-10 10:14:20.528 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:14:20.528 ComputerPlayer Le robot a choisi:127
+2022-10-10 10:14:20.529 ComputerPlayer Compteur:57
+2022-10-10 10:14:20.529 ComputerPlayer Nombre devine plus grand
+2022-10-10 10:14:20.530 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:14:20.530 ComputerPlayer Le robot a choisi:63
+2022-10-10 10:14:20.531 ComputerPlayer Compteur:58
+2022-10-10 10:14:20.531 ComputerPlayer Nombre devine plus petit
+2022-10-10 10:14:20.532 Simulation Le choix d'âge du player est plus petit que celle du capitaine
+
+2022-10-10 10:14:20.532 ComputerPlayer Le robot a choisi:95
+2022-10-10 10:14:20.533 ComputerPlayer Compteur:59
+2022-10-10 10:14:20.533 ComputerPlayer Nombre devine plus grand
+2022-10-10 10:14:20.534 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:14:20.535 ComputerPlayer Le robot a choisi:79
+2022-10-10 10:14:20.535 ComputerPlayer Compteur:60
+2022-10-10 10:14:20.536 ComputerPlayer Nombre devine plus grand
+2022-10-10 10:14:20.536 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:14:20.537 ComputerPlayer Le robot a choisi:71
+2022-10-10 10:14:20.538 ComputerPlayer Compteur:61
+2022-10-10 10:14:20.538 ComputerPlayer Nombre devine plus petit
+2022-10-10 10:14:20.539 Simulation Le choix d'âge du player est plus petit que celle du capitaine
+
+2022-10-10 10:14:20.540 ComputerPlayer Le robot a choisi:75
+2022-10-10 10:14:20.540 ComputerPlayer Compteur:62
+2022-10-10 10:14:20.541 ComputerPlayer Nombre devine plus petit
+2022-10-10 10:14:20.541 Simulation Le choix d'âge du player est plus petit que celle du capitaine
+
+2022-10-10 10:14:20.542 ComputerPlayer Le robot a choisi:77
+2022-10-10 10:14:20.542 ComputerPlayer Compteur:63
+2022-10-10 10:14:20.543 Simulation Le player a deviné le bon numéro
+
+2022-10-10 10:14:20.544 Simulation Le temps émis est de 00:00.253
+2022-10-10 10:14:20.545 Simulation done
