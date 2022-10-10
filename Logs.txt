@@ -10649,3 +10649,131 @@
 
 2022-10-10 10:22:13.197 Simulation Le temps émis est de 00:00.162
 2022-10-10 10:22:13.198 Simulation done
+2022-10-10 10:30:17.794 Simulation Le choix d'âge du player est plus petit que celle du capitaine
+
+2022-10-10 10:30:17.798 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:30:17.799 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:30:17.800 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:30:17.800 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:30:17.801 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:30:17.801 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:30:17.802 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:30:17.802 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:30:17.803 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:30:17.804 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:30:17.805 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:30:17.805 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:30:17.806 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:30:17.807 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:30:17.807 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:30:17.808 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:30:17.809 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:30:17.810 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:30:17.811 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:30:17.812 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:30:17.812 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:30:17.813 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:30:17.813 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:30:17.814 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:30:17.815 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:30:17.815 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:30:17.816 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:30:17.817 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:30:17.817 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:30:17.818 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:30:17.819 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:30:17.819 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:30:17.821 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:30:17.821 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:30:17.822 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:30:17.823 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:30:17.823 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:30:17.824 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:30:17.824 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:30:17.825 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:30:17.826 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:30:17.826 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:30:17.827 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:30:17.828 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:30:17.828 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:30:17.828 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:30:17.829 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:30:17.830 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:30:17.831 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:30:17.831 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:30:17.832 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:30:17.832 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:30:17.833 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:30:17.834 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:30:17.834 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:30:17.835 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:30:17.835 Simulation Le choix d'âge du player est plus petit que celle du capitaine
+
+2022-10-10 10:30:17.836 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:30:17.836 Simulation Le choix d'âge du player est plus grand que celle du capitaine 
+
+2022-10-10 10:30:17.837 Simulation Le choix d'âge du player est plus petit que celle du capitaine
+
+2022-10-10 10:30:17.838 Simulation Le choix d'âge du player est plus petit que celle du capitaine
+
+2022-10-10 10:30:17.839 Simulation Le player a deviné le bon numéro
+
+2022-10-10 10:30:17.841 Simulation Le temps émis est de 00:00.101
+2022-10-10 10:30:17.843 Simulation done

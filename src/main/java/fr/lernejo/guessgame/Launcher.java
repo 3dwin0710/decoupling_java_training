@@ -47,6 +47,7 @@ public class Launcher {
             if(VerifNumerique(args[1])){
                 Long FixeNumber = Long.parseLong(args[1]);
                 //System.out.println(FixeNumber);
+
                 simulationcomputer.initialize(FixeNumber);
                 simulationcomputer.loopUntilPlayerSucceed(1000);
             }else{

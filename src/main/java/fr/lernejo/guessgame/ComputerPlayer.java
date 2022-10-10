@@ -5,7 +5,7 @@ import fr.lernejo.logger.LoggerFactory;
 
 
 public class ComputerPlayer implements Player{
-    Logger logger = LoggerFactory.getLogger("ComputerPlayer");
+    //Logger logger = LoggerFactory.getLogger("ComputerPlayer");
     private long Bornesup = Long.MAX_VALUE;
     //private int interation;
 
@@ -16,7 +16,7 @@ public class ComputerPlayer implements Player{
     public long askNextGuess() {
         this.milieu = (this.Bornesup+this.Borninf)/2;
         //System.out.println("Le robot a choisi:"+this.milieu);
-        this.logger.log("Le robot a choisi:"+this.milieu);
+        //this.logger.log("Le robot a choisi:"+this.milieu);
         //this.interation +=1;
         //this.logger.log("Compteur:"+this.interation);
         return this.milieu;

@@ -11,7 +11,6 @@ import java.nio.file.Paths;
 public class FileLogger implements Logger{
     private final Path path;
 
-
     public FileLogger(String pathAsString) {
         path = Paths.get(pathAsString).toAbsolutePath();
     }
